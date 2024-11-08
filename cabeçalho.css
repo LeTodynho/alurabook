@@ -25,4 +25,14 @@
 }
 
 .lista-menu{
-    display: none; position: absolute; 29 38 top: 100%; 31 width: 60vw; 32 33 34 .container_botao: checked lista-menu ( 35 display: block; Matemática U-20 AM CERIES AZTIL CEBAN OG EFM 36 } 37 Geografia-2º Ana B Man CERRO ASTIL CEBAR OG EFM 38 lista-menu_titulo, 39 lista-menu_item ( < 40 Biologia-2º Ano B Manhs CERRO AZTHE CE BAR OG EFM 41 background-color: var(--branco); padding: 1em; 42 } Fisica 1-2º Ano B Manha CERRO ASTIL CE BAR OG EFM 43 44 lista-menu_titulo ( B Bilatécnologia 29 Апо В М CERRO AZTHE CE BAR OG EFM 45 color: var(--laranja); 46 font-weight: 700; 47 } S Socinilogia-2º Ano B Tarde. CERRO ATTIL CE BAR OG EFM Educacão Financeira-2A CERRO AZTIL CEBAR OG EFM Matematica-2º Ano B M. CERRO AZTIL CEBAR OG EFM Qumics-2º Ano B Tarde CERRO AZTIL CE BAR OG EFM Lingua Portuguesa-2º Ars CERRO AZTIL CEBAR OG EFM Projeto De Vida-20 Ano B CERRO AZTIL CE BAR OG EFM 48 49 lista-menu_link { 50 background: var(--azul-degrade); 51 52 -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    display: none; 
+    position: absolute; 
+    top: 100%; 
+    width: 60vw;
+ }
+ 
+ .container_botao: checked lista-menu {
+    display: block;
+  }
+  
+lista-menu_titulo, 39 lista-menu_item ( < 40 Biologia-2º Ano B Manhs CERRO AZTHE CE BAR OG EFM 41 background-color: var(--branco); padding: 1em; 42 } Fisica 1-2º Ano B Manha CERRO ASTIL CE BAR OG EFM 43 44 lista-menu_titulo ( B Bilatécnologia 29 Апо В М CERRO AZTHE CE BAR OG EFM 45 color: var(--laranja); 46 font-weight: 700; 47 } S Socinilogia-2º Ano B Tarde. CERRO ATTIL CE BAR OG EFM Educacão Financeira-2A CERRO AZTIL CEBAR OG EFM Matematica-2º Ano B M. CERRO AZTIL CEBAR OG EFM Qumics-2º Ano B Tarde CERRO AZTIL CE BAR OG EFM Lingua Portuguesa-2º Ars CERRO AZTIL CEBAR OG EFM Projeto De Vida-20 Ano B CERRO AZTIL CE BAR OG EFM 48 49 lista-menu_link { 50 background: var(--azul-degrade); 51 52 -webkit-background-clip: text; -webkit-text-fill-color: transparent;
